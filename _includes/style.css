@@ -1,0 +1,15 @@
+/*
+Coding Style Stratocracy:
+  no inline styles
+  hexadecimal colour codes
+  4 spacial indentations (no-tabs)
+  hyphenated namespaces
+
+### Format ###
+selector,
+selector
+{
+    declaration;
+    declaration;
+}
+*/
