@@ -1,7 +1,4 @@
-# WEBLOG
-Web Publishing Toolkit
-
-We need a plan...
+# We need a plan...
 * Cross Browser/Platform
 * [User Friendly](http://ars.userfriendly.org/cartoons/?id=20030128)
 * [Scalable](http://www.liquidapsive.com/)
